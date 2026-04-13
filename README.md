@@ -16,12 +16,10 @@ Semua komponen dipantau oleh Cloud Monitoring & Cloud Logging.
 - Cloud IAM — manajemen akses
 
   ## Anggota Kelompok
-| Nama | NIM | Role |
-|------|-----|------|
-| [Nama 1] | [NIM] | Cloud Architect |
-| [Nama 2] | [NIM] | DevOps Engineer |
-| [Nama 3] | [NIM] | Backend Developer |
-| [Nama 4] | [NIM] | Security Engineer |
+- Agatha Monalisa — NIM: 2330105030008 — Role: Security Engineer
+- Muhammad Rony Kurniawan — NIM: 2330105030018 — Role: Backend Developer
+- Ni Putu Lowryanty — NIM: 2330105030029 — Role: Cloud Architect
+- Fatiya Ummu Hanifah Zahra — NIM: 2330205030042 — Role: DevOps Engineer
 
 ## Platform Cloud
 Google Cloud Platform (GCP) — Region: asia-southeast2 (Jakarta)
