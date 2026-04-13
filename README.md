@@ -8,12 +8,12 @@ User → Cloud CDN → Compute Engine → Cloud Storage / Cloud SQL.
 Semua komponen dipantau oleh Cloud Monitoring & Cloud Logging.
 
 ## Layanan GCP yang Digunakan
-- Compute Engine (VM e2-medium) — server aplikasi backend.
-- Cloud Storage (500 GB Standard) — penyimpanan file.
-- Cloud SQL (db-f1-micro MySQL) — metadata file.
-- Cloud CDN — distribusi konten statis.
-- Cloud Monitoring + Cloud Logging — observabilitas.
-- Cloud IAM — manajemen akses.
+1. Compute Engine (VM e2-medium) — server aplikasi backend.
+2. Cloud Storage (500 GB Standard) — penyimpanan file.
+3. Cloud SQL (db-f1-micro MySQL) — metadata file.
+4. Cloud CDN — distribusi konten statis.
+5. Cloud Monitoring + Cloud Logging — observabilitas.
+6. Cloud IAM — manajemen akses.
 
   ## Anggota Kelompok 12
 1. Agatha Monalisa — NIM: 2330105030008 — Role: Security Engineer.
