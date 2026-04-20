@@ -24,6 +24,14 @@ Semua komponen dipantau oleh Cloud Monitoring & Cloud Logging.
 ## Platform Cloud
 Google Cloud Platform (GCP) — Region: asia-southeast2 (Jakarta).
 
+### Yang Telah Diimplementasikan
+- [x] VPC dengan subnet publik & privat
+- [x] Security Groups (prinsip least privilege)
+- [x] 2 compute instances (via bastion)
+- [x] IAM roles, policies, service accounts
+- [x] SSH key pair untuk akses aman
+- [x] Infrastructure as Code (Terraform)
+
 ## Minggu Saat Ini
 Minggu 1 — Perencanaan & Arsitektur.
 Minggu 2 — Implementasi Infrastruktur Dasar.
