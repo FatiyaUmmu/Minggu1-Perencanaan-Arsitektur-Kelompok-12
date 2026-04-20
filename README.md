@@ -26,3 +26,4 @@ Google Cloud Platform (GCP) — Region: asia-southeast2 (Jakarta).
 
 ## Minggu Saat Ini
 Minggu 1 — Perencanaan & Arsitektur.
+Minggu 2 — Implementasi Infrastruktur Dasar.
